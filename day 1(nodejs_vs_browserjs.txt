@@ -1,0 +1,18 @@
+Node JS                                                  
+
+1. Has no window object as its a machine code.
+2. It has a global object.
+3. As entire functions are performed locally there is no loaction object needed.
+4. As there is no rendeing involved no document object is involved.
+5. Control in environment is established easily as its developer dependent
+
+
+
+
+Browser JS
+
+1.Has a window object which delas globally with defined window in the browser.
+2. There isnt any specific global object as the window is global object in itself.
+3. Location object is specified along with URl to fetch resources.
+4. As it works mainly using the DOm principle there is a definite need of document object.
+5. Control in environment becomes difficult as it varies with browsers and versions.
